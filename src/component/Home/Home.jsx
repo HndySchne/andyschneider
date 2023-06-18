@@ -1,4 +1,5 @@
 import "./Home.scss";
+import "./Home_mobile.scss";
 import pictureProfile from "../../pictures/pic.jpg";
 import resume from "../../documents/CV-andy-schneider.pdf";
 
