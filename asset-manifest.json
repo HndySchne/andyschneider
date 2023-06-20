@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/andyschneider/static/css/main.1af19e2c.css",
-    "main.js": "/andyschneider/static/js/main.e5384904.js",
+    "main.css": "/andyschneider/static/css/main.51afccb4.css",
+    "main.js": "/andyschneider/static/js/main.c7d2167e.js",
     "static/media/CV-andy-schneider.pdf": "/andyschneider/static/media/CV-andy-schneider.4b74ba46564bdb75a08b.pdf",
     "static/media/Roboto-BoldItalic.ttf": "/andyschneider/static/media/Roboto-BoldItalic.87d61cea6fe1d235d4a8.ttf",
     "static/media/Roboto-Italic.ttf": "/andyschneider/static/media/Roboto-Italic.87f3afe16a8c3c370634.ttf",
@@ -12,11 +12,11 @@
     "static/media/youtube.webp": "/andyschneider/static/media/youtube.0a033808b3f3d74b1ce1.webp",
     "static/media/Pole-Nord.webp": "/andyschneider/static/media/Pole-Nord.f1e6bf664b5b20802b1d.webp",
     "index.html": "/andyschneider/index.html",
-    "main.1af19e2c.css.map": "/andyschneider/static/css/main.1af19e2c.css.map",
-    "main.e5384904.js.map": "/andyschneider/static/js/main.e5384904.js.map"
+    "main.51afccb4.css.map": "/andyschneider/static/css/main.51afccb4.css.map",
+    "main.c7d2167e.js.map": "/andyschneider/static/js/main.c7d2167e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1af19e2c.css",
-    "static/js/main.e5384904.js"
+    "static/css/main.51afccb4.css",
+    "static/js/main.c7d2167e.js"
   ]
 }
