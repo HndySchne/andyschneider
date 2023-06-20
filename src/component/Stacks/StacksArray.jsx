@@ -13,7 +13,7 @@ function Stacks_Array({title, logo, stack}) {
   const showtext = isOpen ? "NotHidden" : "Hidden";
 
   return (
-    <div>
+    <div className="stack-container">
       <h3>{title}</h3>
       <div className="stack-container__logo" onClick={ShowContent}>
         <span className="logostack">

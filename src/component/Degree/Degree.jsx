@@ -1,4 +1,5 @@
 import "./Degree.scss";
+import "./Degree_mobile.scss";
 
 function Degree() {
   return (

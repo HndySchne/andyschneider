@@ -1,4 +1,5 @@
 import "./Stacks.scss";
+import "./Stacks_mobile.scss";
 import StacksArray from "./StacksArray";
 import { Stacks_data } from "./Stacks_data";
 

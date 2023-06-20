@@ -1,4 +1,5 @@
 import "./Experience.scss";
+import "./Experience_mobile.scss";
 
 function Experience() {
   return (

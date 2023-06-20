@@ -2,6 +2,7 @@ import mbm from "../../pictures/matched-by-mistake.webp";
 import pn from "../../pictures/Pole-Nord.webp";
 import yt from "../../pictures/youtube.webp";
 import "./Hobby.scss";
+import "./Hobby_mobile.scss";
 
 function Hobby() {
   return (
