@@ -7,7 +7,7 @@ import Stacks from './component/Stacks/Stacks';
 import Degree from './component/Degree/Degree';
 import Experience from './component/Experience/Experience';
 import Hobby from './component/Hobby/Hobby';
-import Contact from './component/Contact/Contact';
+import Contact from './component/Contact/index';
 import './App.css';
 
 function App() {
